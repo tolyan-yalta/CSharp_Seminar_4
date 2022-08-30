@@ -7,7 +7,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 if(number < 10)
 {
-    Console.WriteLine("Цифра одна, не соответствует постановке задачи");
+    Console.WriteLine("Одна цифра, не соответствует постановке задачи");
 }
 else
 {
